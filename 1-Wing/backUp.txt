@@ -1,0 +1,10 @@
+"keelOutDiameter"= 1in
+"keelInDiameter"= "keelOutDiameter" - 0.125in
+"frontBoltClearance"= 7.25mm
+"betweenBoltsDistance"= 20mm
+"wingLength"= 1.4m
+"frontTubeLength"= "wingLength" / sin ( 34.95deg )
+"plateThickness"= 5mm
+"crossBarOutDiameter"= 1in
+"crossBarInDiameter"= "crossBarOutDiameter" - 0.125in
+"frontToCrossBar"= 466mm
