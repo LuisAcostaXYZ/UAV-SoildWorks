@@ -1,0 +1,6 @@
+﻿"keelOutDiameter"= 1in
+"poleOutDiameter"= 28mm
+"poleLength"=650mm
+"propellerTubeOutDiameter"= 28mm
+"propellerDiameter"= 700mm
+"propellerPitch"= 150mm
