@@ -1,0 +1,7 @@
+﻿"frontTubeLength"= 1200mm
+"outDiameter"= 35mm
+"keelOutDiameter"= 1.2in
+"bottomTubeLength"= "frontTubeLength"*0.9
+"frontShaftDiameter"= 20mm
+"boltDiameter"= 5mm
+

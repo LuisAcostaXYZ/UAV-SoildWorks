@@ -1,0 +1,3 @@
+"frontTubeLength"= 1330mm
+"outDiameter"= 35mm
+"keelOutDiameter"= 1in
