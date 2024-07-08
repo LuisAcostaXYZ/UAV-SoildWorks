@@ -1,0 +1,2 @@
+"wheelShaftDiameter"= 12mm
+"wheelThickness"= 135mm

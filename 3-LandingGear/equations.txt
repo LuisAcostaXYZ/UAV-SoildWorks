@@ -1,0 +1,6 @@
+﻿"tubeOutDiameter" = 35mm
+"wheelShaftDiameter"= 12mm
+"wheelThickness"= 135mm
+"BearingDiameter"= 20mm
+"BearingThickness"= 10mm
+"frontShaftDiameter"= 20mm
