@@ -9,9 +9,10 @@ Companies are currently designing and iterating on weight-shift control concepts
 <img src="https://i.imgur.com/NA47IWg.png" height="40%" width="40%" alt="UAV assembly"/>
 </p>
 
-<h2>Languages and Utilities Used</h2>
+<h2>Software Used</h2>
 
-- <b>SolidWorks</b> 
+- <b>SolidWorks</b>
+- <b>Matlab</b>
 
 
 <h2>Directory structure:</h2>
